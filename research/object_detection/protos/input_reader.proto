@@ -45,7 +45,7 @@ message InputReader {
   optional bool shuffle = 2 [default = true];
 
   // Buffer size to be used when shuffling.
-  optional uint32 shuffle_buffer_size = 11 [default = 2048];
+  optional uint32 shuffle_buffer_size = 11 [default = 128];
 
   // Buffer size to be used when shuffling file names.
   optional uint32 filenames_shuffle_buffer_size = 12 [default = 100];
