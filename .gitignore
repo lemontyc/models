@@ -100,3 +100,11 @@ ENV/
 m_rcnn/datasets/620_red_yellow_cart_only/train/
 
 m_rcnn/datasets/620_red_yellow_cart_only/val/
+
+m_rcnn/620_red_yellow_cart_only/train/
+
+m_rcnn/620_red_yellow_cart_only/val/
+
+m_rcnn/tensorflow/
+
+research/object_detection/m_rcnn/tensorflow/
